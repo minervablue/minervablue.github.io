@@ -2329,5 +2329,7 @@ http://tediule.top:8080/331678200319019071/6771678200319019/8602
 http://tediule.top:8080/331678200319019071/6771678200319019/8604
 #EXTINF:-1,BE: PLAY7
 http://tediule.top:8080/331678200319019071/6771678200319019/57459
-#EXTINF:0 tvg-id="1.etv" channel-id="qXiTYhi2_Eu3L3p9-DOm9g" channel-number="1" CUID="qXiTYhi2_Eu3L3p9-DOm9g" tvg-chno="1" tvg-name="Cartoon Network" tvg-logo="http://192.168.1.50:8409/iptv/images/ersatztv-500.png" group-title="SBG" tvc-stream-vcodec="hevc" tvc-stream-acodec="aac", Cartoon Network
-http://192.168.2.2:8409/iptv/channel/1.ts
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name=" Cartoon Network" tvg-id="1000" tvg-logo="http://192.168.1.50:8409/iptv/images/ersatztv-500.png" group-title="SBG", Cartoon Network
+http://192.168.2.2:34400/stream/9b9eb511f57475ffb69d32c6689a994b
+#EXTINF:-1,BE: Cartoon Network 2
+http://192.168.2.2:34400/stream/9b9eb511f57475ffb69d32c6689a994b
