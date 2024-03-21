@@ -723,3 +723,7 @@ http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/391378
 http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191558
 #EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name=" Cartoon Network" tvg-id="1000" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png" group-title="SBG", Cartoon Network
 http://cloudd.fr.to/stream/1822cf341724e2c17a3e0eedbd0a39ff
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name=" Kanal D" tvg-id="1001" tvg-logo="http://192.168.1.50:8409/iptv/images/ersatztv-500.png" group-title="SBG", Kanal D
+http://cloudd.fr.to/stream/9d2c5aca26232ff6d6048759aaf5a88c
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name=" CNBC-e" tvg-id="1002" tvg-logo="http://192.168.1.50:8409/iptv/images/ersatztv-500.png" group-title="SBG", CNBC-e
+http://cloudd.fr.to/stream/7c56b955d7d5cea560210fb55e737fbb
