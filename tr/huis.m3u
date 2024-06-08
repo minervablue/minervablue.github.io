@@ -1,4 +1,34 @@
 #EXTM3U url-tvg="http://cloudd.fr.to/xmltv/threadfin.xml" x-tvg-url="http://cloudd.fr.to/xmltv/threadfin.xml"
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ TURKIYE FHD✦●✦" tvg-logo="https://lo1.in/trk/flg.png" group-title="EU | TURK ULUSAL",✦●✦ TURKIYE FHD✦●✦
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191499
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR| TRT 1 FHD" tvg-logo="https://lo1.in/trk/tr1.png" group-title="EU | TURK ULUSAL",TR| TRT 1 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191500
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR| TRT 2 FHD" tvg-logo="https://lo1.in/trk/trt2.png" group-title="EU | TURK ULUSAL",TR| TRT 2 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191498
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR| ATV FHD" tvg-logo="https://lo1.in/trk/atv.png" group-title="EU | TURK ULUSAL",TR| ATV FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191501
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR| KANAL D FHD" tvg-logo="https://lo1.in/trk/kd.png" group-title="EU | TURK ULUSAL",TR| KANAL D FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191502
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR| SHOW TURK FHD" tvg-logo="https://lo1.in/trk/swt.png" group-title="EU | TURK ULUSAL",TR| SHOW TURK FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191507
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR| SHOW MAX FHD" tvg-logo="https://lo1.in/trk/swm.png" group-title="EU | TURK ULUSAL",TR| SHOW MAX FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191508
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR| TV 8.5 FHD" tvg-logo="https://lo1.in/trk/star.png" group-title="EU | TURK ULUSAL",TR| TV 8.5 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191492
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR| FOX TV FHD" tvg-logo="https://lo1.in/trk/fox.png" group-title="EU | TURK ULUSAL",TR| FOX TV FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191503
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR| KANAL 7 FHD" tvg-logo="https://lo1.in/trk/kl7.png" group-title="EU | TURK ULUSAL",TR| KANAL 7 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191505
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR| A2 FHD" tvg-logo="https://lo1.in/trk/a2.png" group-title="EU | TURK ULUSAL",TR| A2 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191506
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR| STAR TV FHD" tvg-logo="https://lo1.in/trk/star.png" group-title="EU | TURK ULUSAL",TR| STAR TV FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146632
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR| SHOW TV FHD" tvg-logo="https://lo1.in/trk/sw.png" group-title="EU | TURK ULUSAL",TR| SHOW TV FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146633
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR| TEVE 2 FHD" tvg-logo="https://lo1.in/trk/tve.png" group-title="EU | TURK ULUSAL",TR| TEVE 2 FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146630
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR| BEYAZ TV FHD" tvg-logo="https://lo1.in/trk/bey.png" group-title="EU | TURK ULUSAL",TR| BEYAZ TV FHD
+http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191495
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR| TRT 1 HD" tvg-logo="https://lo1.in/trk/tr1.png" group-title="EU | TURK ULUSAL",TR| TRT 1 HD
 http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191478
 #EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR| TRT AVAZ HD" tvg-logo="https://lo1.in/trk/trtv.png" group-title="EU | TURK ULUSAL",TR| TRT AVAZ HD
@@ -51,36 +81,6 @@ http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191494
 http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191496
 #EXTINF:-1 tvg-id="" tvg-name="TR| TV EM SD" tvg-logo="https://lo1.in/trk/tvm.png" group-title="EU | TURK ULUSAL",TR| TV EM SD
 http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146625
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ TURKIYE FHD✦●✦" tvg-logo="https://lo1.in/trk/flg.png" group-title="EU | TURK ULUSAL",✦●✦ TURKIYE FHD✦●✦
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191499
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR| TRT 1 FHD" tvg-logo="https://lo1.in/trk/tr1.png" group-title="EU | TURK ULUSAL",TR| TRT 1 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191500
-#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR| TRT 2 FHD" tvg-logo="https://lo1.in/trk/trt2.png" group-title="EU | TURK ULUSAL",TR| TRT 2 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191498
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR| ATV FHD" tvg-logo="https://lo1.in/trk/atv.png" group-title="EU | TURK ULUSAL",TR| ATV FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191501
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR| KANAL D FHD" tvg-logo="https://lo1.in/trk/kd.png" group-title="EU | TURK ULUSAL",TR| KANAL D FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191502
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR| SHOW TURK FHD" tvg-logo="https://lo1.in/trk/swt.png" group-title="EU | TURK ULUSAL",TR| SHOW TURK FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191507
-#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR| SHOW MAX FHD" tvg-logo="https://lo1.in/trk/swm.png" group-title="EU | TURK ULUSAL",TR| SHOW MAX FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191508
-#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR| TV 8.5 FHD" tvg-logo="https://lo1.in/trk/star.png" group-title="EU | TURK ULUSAL",TR| TV 8.5 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191492
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR| FOX TV FHD" tvg-logo="https://lo1.in/trk/fox.png" group-title="EU | TURK ULUSAL",TR| FOX TV FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191503
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR| KANAL 7 FHD" tvg-logo="https://lo1.in/trk/kl7.png" group-title="EU | TURK ULUSAL",TR| KANAL 7 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191505
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR| A2 FHD" tvg-logo="https://lo1.in/trk/a2.png" group-title="EU | TURK ULUSAL",TR| A2 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191506
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR| STAR TV FHD" tvg-logo="https://lo1.in/trk/star.png" group-title="EU | TURK ULUSAL",TR| STAR TV FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146632
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR| SHOW TV FHD" tvg-logo="https://lo1.in/trk/sw.png" group-title="EU | TURK ULUSAL",TR| SHOW TV FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146633
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR| TEVE 2 FHD" tvg-logo="https://lo1.in/trk/tve.png" group-title="EU | TURK ULUSAL",TR| TEVE 2 FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/400146630
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR| BEYAZ TV FHD" tvg-logo="https://lo1.in/trk/bey.png" group-title="EU | TURK ULUSAL",TR| BEYAZ TV FHD
-http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191495
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ TURKIYE SPOR ✦●✦" tvg-logo="https://lo1.in/trk/flg.png" group-title="EU | TURK SPOR",✦●✦ TURKIYE SPOR ✦●✦
 http://gpwvgqe.megahdtv.xyz:80/8768139759/2007503618/191511
 #EXTINF:-1 tvg-id="" tvg-name="TR| TIVIBU SPOR 1 HD" tvg-logo="https://lo1.in/trk/tivs.png" group-title="EU | TURK SPOR",TR| TIVIBU SPOR 1 HD
