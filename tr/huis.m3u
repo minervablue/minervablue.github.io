@@ -1295,3 +1295,5 @@ http://cloudd.fr.to/stream/9d7f1135d92447c5f12474ef1cfdc265
 http://cloudd.fr.to/stream/3e27a25924abde0351769e04c8886780
 #EXTINF:0 channelID="x-ID.470" tvg-chno="4" tvg-name=" FX" tvg-id="4" tvg-logo="http://10.0.1.10:8409/iptv/logos/4C17A8EA5F2CAB38730775B1A8D4E650.jpg" group-title="STV", FX
 http://cloudd.fr.to/stream/ed5baa9abcc5394d8410779a8cf25448
+#EXTINF:0 channelID="x-ID.32" tvg-chno="5" tvg-name=" DVR TV" tvg-id="5" tvg-logo="http://10.0.1.10:8409/iptv/images/ersatztv-500.png" group-title="STV", DVR TV
+http://cloudd.fr.to/stream/0fc0c0a365dd7da5428b074916719307
